@@ -6,7 +6,6 @@ import org.junit.Test
 import com.example.tiptime.ui.theme.TipTimeTheme
 import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performTextInput
-import com.example.tiptime.TipTimeLayout
 import java.text.NumberFormat
 
 class TipUITests {
